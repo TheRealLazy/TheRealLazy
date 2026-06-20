@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hello :3 👋
 
-<!--
-**TheRealLazy/TheRealLazy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Steven Wright once said, "There's a fine line between fishing and just standing on the shore like an idiot." <b>Well, I am that idiot.</b>
 
-Here are some ideas to get you started:
+- still learning
+- professional problem creator, not a solver. ✅
+- not much here really
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages
+
+- Python
+- C++
+- A lil bit of java
+
+**Currently watching** — The Mentalist 

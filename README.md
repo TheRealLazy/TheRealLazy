@@ -2,7 +2,7 @@
 
 > Steven Wright once said, "There's a fine line between fishing and just standing on the shore like an idiot." <b>Well, I am that idiot.</b>
 
-- still learning
+- still very learning
 - professional problem creator, not a solver. ✅
 - not much here really
 
@@ -10,6 +10,6 @@
 
 - Python
 - C++
-- A lil bit of java
+- Jave
 
 **Currently watching** — The Mentalist 
